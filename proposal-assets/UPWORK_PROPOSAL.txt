@@ -1,0 +1,13 @@
+Hi — I built a live, production-ready SMS reminder MVP for barbershops.
+
+What's working:
+- Client dashboard — add/edit/delete clients with reminder dates
+- Monthly SMS via Twilio — fires automatically on each client's cut day
+- Test SMS button — send a real message instantly from the dashboard
+- SMS delivery logs — full history of every message sent
+- Mobile-responsive UI — works on any device
+
+Built with Next.js + Neon Postgres + Twilio + Vercel Cron.
+Ships in 7 days. Fixed $75. Ready to start today.
+
+Erwin Kiess | KLYTICS LLC | Stanford ML | AWS
