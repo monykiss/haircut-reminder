@@ -4,6 +4,7 @@ A production-ready SMS reminder web app for barbershops and salons. Manages clie
 
 ## Live Demo
 
+- **URL:** https://haircut-reminder.vercel.app
 - **Login:** `admin@demo.com` / `Demo1234!`
 
 ## Features

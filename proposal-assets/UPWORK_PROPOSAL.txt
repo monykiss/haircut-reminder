@@ -1,5 +1,9 @@
 Hi — I built a live, production-ready SMS reminder MVP for barbershops.
 
+LIVE DEMO: https://haircut-reminder.vercel.app
+GitHub: https://github.com/monykiss/haircut-reminder
+Login: admin@demo.com / Demo1234!
+
 What's working:
 - Client dashboard — add/edit/delete clients with reminder dates
 - Monthly SMS via Twilio — fires automatically on each client's cut day
